@@ -1,0 +1,40 @@
+.header{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(69, 100, 19);
+    font-family: cursive;
+}
+
+.box1{
+    /* margin: 10px 200px 50px 200px; */
+    margin-left: auto;
+    margin-right: auto;
+    box-align: auto;
+    height: 300px;
+    width: 800px;
+    text-align: center;
+    /* border: 3px;
+    border-style: solid; */
+}
+
+.data{
+    font-family: cursive;
+}
+
+.dp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    border-radius: 30%;
+    object-position: center;
+}
+
+.background{
+    /* background-image: url(../Day3/background.jpg); */
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(154, 228, 147);
+}
